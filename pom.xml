@@ -35,7 +35,7 @@
   </dependencies>
   <distributionManagement>
     <snapshotRepository>
-      <id>maestro-deployer</id>
+      <id>maestro-deploy</id>
       <url>http://localhost:8082/archiva/repository/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
