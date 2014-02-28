@@ -33,27 +33,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<!--
-  <build>
-    <finalName>maven-webapp</finalName>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-failsafe-plugin</artifactId>
-        <version>2.16</version>
-        <executions>
-          <execution>
-            <goals>
-              <goal>integration-test</goal>
-              <goal>verify</goal>
-            </goals>
-          </execution>
-        </executions>
-      </plugin>
-    </plugins>
-
-  </build>
--->
+  <distributionManagement>
+    <snapshotRepository>
+      <id>snapshots-repo</id>
+      <url>http://localhost:8082/archiva/repository/snapshots</url>
+    </snapshotRepository>
+  </distributionManagement>
   <profiles>
     <!-- Profile to enable integration test execution Should be enabled given 
         a -Dintegration.test option when running the build -->
