@@ -5,8 +5,8 @@
   <artifactId>maven-webapp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>maven-webapp Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <name>Sample Web Application for Evaluation Demo</name>
+  <url>http://www.maestrodev.com/</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
