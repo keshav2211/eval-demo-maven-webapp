@@ -11,7 +11,7 @@
         <img src="images/maestro.png">
       </td>
       <td>
-         <h1>Sample Maven Web Application JSP Page</h1>
+         <h1>Sample Maven Web Application JSP Page for Devops Demo</h1>
       </td>
     </tr>
   </table>
