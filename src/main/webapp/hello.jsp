@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Maestro Sample Maven Web Application JSP Page</title>
+    <title>Sample Maven Web Application JSP Page for Devops Demo</title>
   </head>
 
   <body bgcolor=white>
@@ -11,7 +11,7 @@
         <img src="images/maestro.png">
       </td>
       <td>
-         <h1>Maestro Sample Maven Web Application JSP Page</h1>
+         <h1>Sample Maven Web Application JSP Page</h1>
       </td>
     </tr>
   </table>
