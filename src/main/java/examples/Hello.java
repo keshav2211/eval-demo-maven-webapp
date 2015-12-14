@@ -33,7 +33,7 @@ public final class Hello extends HttpServlet {
         PrintWriter writer = response.getWriter();        
         writer.println("<html>");
         writer.println("<head>");
-        writer.println("<title>Maestro Sample Maven Application Servlet Page</title>");
+        writer.println("<title>Devops Sample Maven Application Servlet Page</title>");
         writer.println("</head>");
         writer.println("<body bgcolor=white>");
 
@@ -43,7 +43,7 @@ public final class Hello extends HttpServlet {
         writer.println("<img src=\"images/maestro.png\">");
         writer.println("</td>");
         writer.println("<td>");
-        writer.println("<h1>Maestro Sample Maven Application Servlet</h1>");
+        writer.println("<h1>Devops Sample Maven Application Servlet</h1>");
         writer.println("</td>");
         writer.println("</tr>");
         writer.println("</table>");
