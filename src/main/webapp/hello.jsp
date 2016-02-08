@@ -8,7 +8,7 @@
   <table border="0" cellpadding="10">
     <tr>
       <td align=center>
-        <img src="images/VERITAS_LOGO_RED_1600x400.jpg">
+        <img src="images/TheInternetOfThings-01.jpg" width="1366" height="1366">
       </td>
       <td>
          <h1>Sample Maven Web Application JSP Page for Devops Demo</h1>
