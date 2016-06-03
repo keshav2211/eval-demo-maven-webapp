@@ -1,4 +1,4 @@
 eval-demo-maven-webapp
 ======================
 
-Basic (Hello World) Java WebApp built using Maven
+Basic but more than a 'Hello World' Java WebApp built using Maven
